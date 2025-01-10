@@ -2,9 +2,14 @@
   padding-top: 8rem;
   background-color: #b8b8b8;
 }
-#about {
-  padding-top: 10rem;
+
+#projects {
+  background-color: #6c757d;
 }
 #contact {
   background-color: #b8b8b8;
+}
+
+section {
+  padding-top: 7rem;
 }
